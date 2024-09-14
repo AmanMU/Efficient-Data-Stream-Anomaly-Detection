@@ -115,3 +115,4 @@ This approach is lightweight and can adapt to concept drift, where the underlyin
 ## Example
 
 Running the project will generate a real-time plot displaying the data stream. Anomalies are marked in red on the plot.
+![Sample Output](sample_output.png)
